@@ -1,0 +1,22 @@
+{
+    "name": "raybon/easy-fdd",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Raybon\\EasyFdd\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Raybon\\EasyFdd\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lipeng",
+            "email": "me@raybon.vip"
+        }
+    ]
+}
